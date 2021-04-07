@@ -1,7 +1,7 @@
 # Bicycle-Theft-in-Toronto
 Capstone Project for York University Into to Big Data Analytics
 
-This was the first project I completeed for the aforementioned course. Working in a team with two other classmates, I took up the task of doing all programming work.
+This was the first project I completed for the aforementioned course. Working in a team with two other classmates, I took up the task of doing all programming work.
 I was able to apply my Python knowledge the previous two months I had spent studying and practising Python. 
 
 The purpose of this project was to test our abilities not only in programming, but also in project understanding and the CRISP-Decision Model application. In order to 
